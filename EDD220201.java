@@ -6,22 +6,22 @@ public class EDD220201 {
    
     public static void main(String[] args) {
         //while
-        /*int edad = 30;
+        int edad = 30;
         while(edad<21){
             System.out.println("Es menor de edad, por que tiene:"
                     +edad);
             edad = edad+1;
-        }*/
+        }
         
         //do while
         
-        /*do{
+        do{
             System.out.println("La edad es de: "+edad);
             edad++;
-        }while(edad<21);*/
+        }while(edad<21);
         
         //switch
-        /*int mes = 3;
+        int mes = 3;
         switch(mes){
             case 1: System.out.println("Enero");
             break;
@@ -30,7 +30,7 @@ public class EDD220201 {
             case 3: System.out.println("Marzo");
             break;
             default: System.out.println("Usted ingreso un mes erroneo");
-        }*/
+        }
         
         /*if(mes==1){
             System.out.println("Enero");
