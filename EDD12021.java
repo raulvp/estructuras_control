@@ -5,7 +5,7 @@ public class EDD12021 {
 
     public static void main(String[] args) {
         //System.out.println("Hola Mundo estoy en EDD");
-        /*int valor1=9;
+        int valor1=9;
         int valor2=10;
         
         if(valor1>valor2){
@@ -23,9 +23,9 @@ public class EDD12021 {
         
         for(int i=10;i>=0;i--){
             System.out.println("i="+i);
-        }*/
+        }
         
-        /*int dado1=5;
+        int dado1=5;
         int dado2=6;
         int dado3=6;
         
@@ -38,7 +38,7 @@ public class EDD12021 {
         }
         else{
             System.out.println("Pesimo");
-        }*/
+        }
         
         /*****matriz con FOR*********/
         int filas=6;
